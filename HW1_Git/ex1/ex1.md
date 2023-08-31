@@ -1,3 +1,4 @@
+```
 (base) samng@Sam-MacBook ~ % mkdir -p ~/HW_DSLab/HW0_Git
 (base) samng@Sam-MacBook ~ % cd ~/HW_DSLab/HW0_Git
 (base) samng@Sam-MacBook HW0_Git % echo 'Hello World!' > hello.txt
@@ -86,3 +87,4 @@ cat: .git/refs/heads/master: No such file or directory
 (base) samng@Sam-MacBook HW0_Git % git log --oneline
 3c6c726 (HEAD -> main, origin/main) Initial commit
 bc79d20 first commit
+```
