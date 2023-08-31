@@ -1,3 +1,4 @@
+```
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout exercise9
 branch 'exercise9' set up to track 'upstream/exercise9'.
 Switched to a new branch 'exercise9'
@@ -106,3 +107,4 @@ Date:   Wed Oct 4 19:01:12 2017 -0700
 
  hello.txt | 1 +
  1 file changed, 1 insertion(+)
+```
