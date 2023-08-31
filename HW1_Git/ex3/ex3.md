@@ -1,3 +1,5 @@
+```
+
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout exercise3
 branch 'exercise3' set up to track 'origin/exercise3'.
 Switched to a new branch 'exercise3'
@@ -122,3 +124,5 @@ to do so with:
 
 Switched to branch 'exercise3'
 Your branch is up to date with 'origin/exercise3'.
+
+```
