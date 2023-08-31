@@ -1,3 +1,4 @@
+```
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout master
 Switched to branch 'master'
 (base) samng@Sam-MacBook advanced-git-exercises % git remote -v
@@ -45,3 +46,5 @@ See git-pull(1) for details.
 If you wish to set tracking information for this branch you can do so with:
 
     git branch --set-upstream-to=upstream/<branch> feature
+
+```
