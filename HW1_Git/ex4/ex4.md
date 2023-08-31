@@ -1,3 +1,5 @@
+```
+
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout exercise4
 branch 'exercise4' set up to track 'origin/exercise4'.
 Switched to a new branch 'exercise4'
@@ -151,3 +153,5 @@ Hola World!
 Hello Mundo!
 >>>>>>> mundo
 This is a test of the emergency git-casting system.
+
+```
