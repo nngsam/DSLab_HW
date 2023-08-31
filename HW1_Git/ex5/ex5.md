@@ -1,3 +1,4 @@
+```
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout exercise5
 hello.txt: needs merge
 error: you need to resolve your current index first
@@ -100,3 +101,5 @@ c991682 (HEAD -> exercise5) Replacing greeting with tokens for i18n
   exercise4
 * exercise5
   mundo
+
+```
