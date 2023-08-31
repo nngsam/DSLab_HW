@@ -1,3 +1,4 @@
+```
 (base) samng@Sam-MacBook HW0_Git % git clone git@github.com:nnja/advanced-git-exercises.git
 Cloning into 'advanced-git-exercises'...
 remote: Enumerating objects: 28, done.
@@ -77,3 +78,5 @@ index 980a0d5..b31a35b 100644
 @@ -1 +1,2 @@
  Hello World!
 +This is a test of the emergency git-casting system.
+
+```
