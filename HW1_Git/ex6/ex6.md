@@ -1,3 +1,5 @@
+```
+
 (base) samng@Sam-MacBook advanced-git-exercises % git checkout exercise6
 branch 'exercise6' set up to track 'origin/exercise6'.
 Switched to a new branch 'exercise6'
@@ -128,3 +130,5 @@ fatal: bad revision '713f6a1'
 [exercise6 2105ad0] Revert "Deleting hello.template"
  1 file changed, 2 insertions(+)
  create mode 100644 hello.template
+
+```
